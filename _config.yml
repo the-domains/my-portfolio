@@ -1,7 +1,7 @@
 name: my portfolio
 favicon: null
-layout_spectrum: 0.37587537965737283
-typography_spectrum: 0.38135128538124263
+layout_spectrum: 0
+typography_spectrum: 0.2456
 cta:
   domain: null
   bucket: null
