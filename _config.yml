@@ -2,6 +2,7 @@ name: my portfolio
 favicon: null
 layout_spectrum: 0.23212
 typography_spectrum: 0.2456
+title: abc
 cta:
   domain: null
   bucket: null
